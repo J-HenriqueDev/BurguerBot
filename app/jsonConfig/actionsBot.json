@@ -1,0 +1,9 @@
+{
+    "buttonsListInit": ["Novo Pedido","Cardápio","Outras opções"],
+    "buttonsViewMenu": ["Novo Pedido", "Voltar"],
+    "buttonsOtherOptions": ["Fazer uma reclamação","Falar com um atendente","Alterar cadastro"],
+    "buttonCancell": ["❌ Cancelar Pedido"],
+    "buttonsAddItemOrder": ["Adicionar item", "Não adicionar"],
+    "buttonsOrder": ["✅ Confirmar","Editar o pedido", "❌ Cancelar"],
+    "buttosnOrderEnd": ["✅ Confirmar Pedido","Editar o pedido","❌ Cancelar"]
+}
