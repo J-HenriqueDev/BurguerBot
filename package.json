@@ -2,7 +2,7 @@
    "name": "bot-baileys-firebase",
    "version": "1.0.0",
    "main": "initializer.ts",
-   "script": {
+   "scripts": {
       "start": "node ./modules/initializer.bot.js"
    },
    "dependencies": {
